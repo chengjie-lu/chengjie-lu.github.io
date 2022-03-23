@@ -11,9 +11,9 @@ title                    : "路成杰 / Chengjie Lu"
 title_separator          : "-"
 name                     : &name "Chengjie Lu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chengjie-lu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chengjie-lu/chengjie-lu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "路成杰"
+  name             : "路成杰 / Chengjie Lu"
   avatar           : "profile.png"
   bio              : "Ph.D Student<br>College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 211106, China"
   location         : "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chengjie-lu"
   google_plus      :
   keybase          :
   instagram        :
