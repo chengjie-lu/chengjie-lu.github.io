@@ -33,3 +33,11 @@ In: 13th Symposium on Search-Based Software Engineering (**SSBSE 2021**).<br>
 Yize Shi, **Chengjie Lu**, Man Zhang, Huihui Zhang, Tao Yue and Shaukat Ali<br>
 In: ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (**MODELS 2021**).<br>
 [[PDF](http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf)][[DataSet](https://github.com/simplexity-lab/LiveTCM)]
+
+
+# Honors
+
+- Outstanding Graduates Awards of NUAA, 2022
+- Merit Student Award of NUAA, 2021
+- The First Prize Scholarship of NUAA, 2019, 2020, 2021
+- Student Award for Research and Innovation of NUAA, 2021
