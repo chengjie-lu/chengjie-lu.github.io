@@ -37,7 +37,7 @@ In: ACM/IEEE 24th International Conference on Model Driven Engineering Languages
 
 # Honors
 
-- Outstanding Graduates Awards of NUAA, 2022
+<!-- - Outstanding Graduates Awards of NUAA, 2022
 - Merit Student Award of NUAA, 2021
 - The First Prize Scholarship of NUAA, 2019, 2020, 2021
-- Student Award for Research and Innovation of NUAA, 2021
+- Student Award for Research and Innovation of NUAA, 2021 -->
