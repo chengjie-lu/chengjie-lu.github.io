@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no), Norway, where I work with [Dr. Tao Yue](https://scholar.google.no/citations?user=zTDRGDcAAAAJ&hl=en) and [Dr. Shaukat Ali](https://scholar.google.no/citations?user=S_UVLhUAAAAJ&hl=en) in the field of Autonomous Driving System Testing.
+Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no/people/chengjielu), Norway, where I work with [Dr. Tao Yue](https://www.simula.no/people/tao?f%5Bauthor%5D=2737) and [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) in the field of Autonomous Driving System Testing.
 
 <!--  [University of Oslo](https://www.uio.no), Norway, and I work as a Research Fellow at -->
 
@@ -25,6 +25,11 @@ In: IEEE Transactions on Software Engineering (**TSE**), in press.<br>
 [[preprint](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[DataSet](https://github.com/simplexity-lab/DeepCollision)]
 
 ## Conference
+
+- Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation.<br>
+Qiwei Chen, Tiexin Wang, **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
+In: ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems, 5th International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (**MODELS 2022, Workshop**)<br>
+[[PDF](http://chengjie-lu.github.io/files/Lu2021_Chapter_Search-BasedSelectionAndPriori.pdf)][[DataSet](https://github.com/simplexity-lab/SPECTRE)]
 
 - Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems.<br>
 **Chengjie Lu**, Huihui Zhang and Tao Yue<br>
