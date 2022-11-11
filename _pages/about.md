@@ -28,7 +28,7 @@ In: IEEE Transactions on Software Engineering (**TSE**), in press.<br>
 
 - Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation.<br>
 Qiwei Chen, Tiexin Wang, **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
-In: ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems, 5th International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems (**MODELS 2022, Workshop**)<br>
+In: Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (**MODELS 2022**).<br>
 [[PDF](http://chengjie-lu.github.io/files/MODELS_2022_Workshop.pdf)]
 
 - Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems.<br>
