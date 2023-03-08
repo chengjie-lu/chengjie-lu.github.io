@@ -4,7 +4,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /publications
+  - /publications/
   - /publications.html
 ---
 
@@ -36,17 +36,17 @@ In: IEEE Transactions on Software Engineering (**TSE**), 2022.<br>
 
 - Test Scenario Generation for Autonomous Driving Systems with Reinforcement Learning.<br>
 **Chengjie Lu**<br>
-In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**)<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**).<br>
 [[preprint](http://chengjie-lu.github.io/files/ICSE2023_SRC.pdf)]
 
 - Evolutionary Computation and Reinforcement Learning for Cyber-physical System Design.<br>
 **Chengjie Lu**<br>
-In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**)<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**).<br>
 [[preprint](http://chengjie-lu.github.io/files/ICSE2023_DS.pdf)]
 
 - DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing.<br>
 **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
-In: 20th International Conference on Mining Software Repositories (**MSR 2023**)<br>
+In: 20th International Conference on Mining Software Repositories (**MSR 2023**).<br>
 [[preprint](http://chengjie-lu.github.io/files/MSR2023_Scenario_Dataset___Chengjie.pdf)][[DataSet](https://github.com/Simula-COMPLEX/DeepScenario)]
 
 - Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation.<br>
