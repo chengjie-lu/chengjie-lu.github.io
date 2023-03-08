@@ -16,9 +16,9 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 <!-- I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. Tao Yue. -->
 
 
-*<font color=Red>*News*</font>*
+*<font color=Red>**News**</font>*
 
-*I recently have several papers accepted by ICSE 2023 Companion Proceedings and MSR 2023.*
+*I recently have several papers accepted by ICSE 2023 Companion Proceedings and MSR 2023:*
 
 - Test Scenario Generation for Autonomous Driving Systems with Reinforcement Learning.<br>
 **Chengjie Lu**<br>
@@ -32,12 +32,12 @@ In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Compani
 
 - DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing.<br>
 **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
-In: the 20th International Conference on Mining Software Repositories (**MSR 2023**)<br>
+In: 20th International Conference on Mining Software Repositories (**MSR 2023**)<br>
 [[preprint](http://chengjie-lu.github.io/files/MSR2023_Scenario_Dataset___Chengjie.pdf)][[DataSet](https://github.com/Simula-COMPLEX/DeepScenario)]
 
 
 
-# Publications
+<!-- # Publications
 
 ## Journal
 
@@ -61,12 +61,12 @@ In: 13th Symposium on Search-Based Software Engineering (**SSBSE 2021**).<br>
 - Restricted Natural Language and Model-based Adaptive Test Generation for Autonomous Driving.<br>
 Yize Shi, **Chengjie Lu**, Man Zhang, Huihui Zhang, Tao Yue and Shaukat Ali<br>
 In: ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (**MODELS 2021**).<br>
-[[PDF](http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf)][[DataSet](https://github.com/simplexity-lab/LiveTCM)]
+[[PDF](http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf)][[DataSet](https://github.com/simplexity-lab/LiveTCM)] -->
 
 
-<!-- # Honors
+# Honors
 
-- Outstanding Graduates Awards, 2022
-- Merit Student Award, 2021
-- The First Prize Scholarship, 2019, 2020, 2021
-- Student Award for Research and Innovation, 2021 -->
+- Outstanding Graduates Awards of NUAA, 2022
+- Merit Student Award of NUAA, 2021
+- The First Prize Scholarship of NUAA, 2019, 2020, 2021
+- Student Award for Research and Innovation of NUAA, 2021
