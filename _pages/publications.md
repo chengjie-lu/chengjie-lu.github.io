@@ -24,11 +24,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-
-
-# Publications
-
 ## Journal
 
 - Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.<br>
