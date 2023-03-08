@@ -32,7 +32,7 @@ In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Compani
 
 - DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing.<br>
 **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
-In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**)<br>
+In: the 20th International Conference on Mining Software Repositories (**MSR 2023**)<br>
 [[preprint](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[DataSet](https://github.com/Simula-COMPLEX/DeepScenario)]
 
 
@@ -43,7 +43,7 @@ In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Compani
 
 - Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.<br>
 **Chengjie Lu**, Yize Shi, Huihui Zhang, Man Zhang, Tiexin Wang, Tao Yue and Shaukat Ali<br>
-In: IEEE Transactions on Software Engineering (**TSE**), in press.<br>
+In: IEEE Transactions on Software Engineering (**TSE**), 2022.<br>
 [[preprint](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[DataSet](https://github.com/simplexity-lab/DeepCollision)]
 
 ## Conference
