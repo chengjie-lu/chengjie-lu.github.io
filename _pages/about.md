@@ -20,7 +20,7 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 
 ### *<font color=Red>**News**</font>* 
 
-<div align=left><img src="https://github.com/chengjie-lu/chengjie-lu.github.io/blob/master/images/news.png" width="40" /></div>
+<div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="40" /></div>
 
 
 *I recently have several papers accepted by ICSE 2023 Companion Proceedings and MSR 2023:*
