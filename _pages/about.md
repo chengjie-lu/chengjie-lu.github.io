@@ -16,7 +16,25 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 <!-- I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. Tao Yue. -->
 
 
-*<font color=Red>News</font>*
+*<font color=Red>*News*</font>*
+
+*I recently have several papers accepted by ICSE 2023 Companion Proceedings and MSR 2023.*
+
+- Test Scenario Generation for Autonomous Driving Systems with Reinforcement Learning.<br>
+**Chengjie Lu**<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**)<br>
+[[preprint](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)]
+
+- Evolutionary Computation and Reinforcement Learning for Cyber-physical System Design.<br>
+**Chengjie Lu**<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**)<br>
+<!-- [[preprint](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[DataSet](https://github.com/simplexity-lab/DeepCollision)] -->
+
+- DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing.<br>
+**Chengjie Lu**, Tao Yue and Shaukat Ali<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**)<br>
+[[preprint](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[DataSet](https://github.com/Simula-COMPLEX/DeepScenario)]
+
 
 
 # Publications
