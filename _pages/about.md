@@ -17,6 +17,9 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 
 # Publications
 
+<font color=blue>News</font>
+
+
 ## Journal
 
 - Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.<br>
