@@ -15,8 +15,13 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 
 <!-- I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. Tao Yue. -->
 
-![image]([https://github.com/Simula-COMPLEX/DeepScenario/blob/main/figures/dataset-generation.png](https://github.com/chengjie-lu/chengjie-lu.github.io/blob/master/images/news.png))
-### *<font color=Red>**News**</font>*
+<!-- ![image](https://github.com/chengjie-lu/chengjie-lu.github.io/blob/master/images/news.png)  -->
+
+
+### *<font color=Red>**News**</font>* 
+
+<div align=left><img src="https://github.com/chengjie-lu/chengjie-lu.github.io/blob/master/images/news.png" width="40" /></div>
+
 
 *I recently have several papers accepted by ICSE 2023 Companion Proceedings and MSR 2023:*
 
