@@ -23,7 +23,7 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 <div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="36" /></div>
 
 
-*I recently have several papers accepted by ICSE 2023 Companion Proceedings and MSR 2023:*
+*I recently have several papers accepted by ICSE 2023 and MSR 2023:*
 
 - Test Scenario Generation for Autonomous Driving Systems with Reinforcement Learning.<br>
 **Chengjie Lu**<br>
