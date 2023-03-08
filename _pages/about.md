@@ -17,7 +17,7 @@ Now I am a Ph.D. candidate of [Simula Research Laboratory](https://www.simula.no
 
 # Publications
 
-<font color=Red>_News_</font>
+<font color=Red>*News*</font>
 
 
 
