@@ -11,7 +11,9 @@ redirect_from:
 
 Currently I am Ph.D. fellow at Engineering Complex Software Systems Department at [Simula Research Laboratory](https://www.simula.no/people/chengjielu), Norway, under the supervision of [Dr. Tao Yue](https://www.simula.no/people/tao?f%5Bauthor%5D=2737) and [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737). I am also a Ph.D. student at [University of Oslo](https://www.uio.no), Norway. My research interests includes software engineering, software testing, autonomous driving system, and cyber-physical system. 
 
-I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. Tao Yue.
+I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics.
+
+<!-- , under the supervision of Prof. Tao Yue. -->
 
 <!-- Currently I am a Ph.D. fellow of [Simula Research Laboratory](https://www.simula.no/people/chengjielu), Norway, where I work with [Dr. Tao Yue](https://www.simula.no/people/tao?f%5Bauthor%5D=2737) and [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) in the field of Autonomous Driving System Testing. -->
 
