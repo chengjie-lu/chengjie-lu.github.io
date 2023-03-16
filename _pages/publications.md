@@ -57,7 +57,7 @@ In: Proceedings of the 25th International Conference on Model Driven Engineering
 - Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems.<br>
 **Chengjie Lu**, Huihui Zhang and Tao Yue<br>
 In: 13th Symposium on Search-Based Software Engineering (**SSBSE 2021**).<br>
-[[PDF](http://chengjie-lu.github.io/files/Lu2021_Chapter_Search-BasedSelectionAndPriori.pdf)][[DataSet](https://github.com/simplexity-lab/SPECTRE)]
+[[PDF](http://chengjie-lu.github.io/files/Lu2021_Chapter_Search-BasedSelectionAndPriori.pdf)][[Slides](http://chengjie-lu.github.io/files/SSBSE-SPECTRE-Presentation-Slides.pdf)][[DataSet](https://github.com/simplexity-lab/SPECTRE)]
 
 - Restricted Natural Language and Model-based Adaptive Test Generation for Autonomous Driving.<br>
 Yize Shi, **Chengjie Lu**, Man Zhang, Huihui Zhang, Tao Yue and Shaukat Ali<br>
