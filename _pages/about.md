@@ -28,7 +28,7 @@ I received my B.Sc. degree in [College of Computer Science and Technology](https
 
 <div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="36" /></div>
 
-*1. I won the **first prize** in the ACM Student Research Competition@[ICSE2023](https://conf.researchr.org/home/icse-2023)!*
+*1. I won the **1st place** in the ACM Student Research Competition@[ICSE2023](https://conf.researchr.org/home/icse-2023)!*
 
 *2. Our TSE paper entitled "[Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions](https://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)" has been accepted by ICSE 2023 Journal-First Papers Track and will be presented at the conference.*
 
@@ -80,6 +80,7 @@ In: ACM/IEEE 24th International Conference on Model Driven Engineering Languages
 
 # Honors
 
+- 1st Place Winner in the ACM Student Research Competition@ICSE2023, 2023
 - Outstanding Graduates Awards of NUAA, 2022
 - Merit Student Award of NUAA, 2021
 - The First Prize Scholarship of NUAA, 2019, 2020, 2021
