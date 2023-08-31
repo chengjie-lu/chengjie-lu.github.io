@@ -45,7 +45,7 @@ In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Compani
 [[PDF](http://chengjie-lu.github.io/files/ICSE2023_DS.pdf)][[Poster](http://chengjie-lu.github.io/files/ICSE-DS-Poster_Print.pdf)]
 
 
-<!-- ---
+<!--
 - DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing.<br>
 **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
 In: 20th International Conference on Mining Software Repositories (**MSR 2023**).<br>
