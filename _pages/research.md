@@ -1,17 +1,13 @@
----
 layout: archive
 permalink: /research/
 title: "Research"
 author_profile: false
+toc: true             # Turns on the automatic table of contents
+toc_sticky: true      # Makes the menu follow the user as they scroll down
+toc_label: "Navigator" # Customizes the title of the menu
 redirect_from: 
   - /research
   - /research.html
----
-
-**Navigator:**
-* [Selected Publications](#selected-publications)
-* [Academic Services](#academic-services)
-
 ---
 
 ## Selected Publications
