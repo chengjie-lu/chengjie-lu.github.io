@@ -200,24 +200,37 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
 
 ## Academic Services
 
-**Journal Reviewers**
+### Journal Reviewers
 
-IEEE Transactions on Software Engineering
+IEEE Transactions on Software Engineering (TSE)
 
-ACM Transactions on Software Engineering and Methodology
+ACM Transactions on Software Engineering and Methodology (TOSEM)
 
-IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 
-IEEE Transactions on Industrial Informatics
+IEEE Transactions on Industrial Informatics (TII)
 
-Science of Computer Programming
+Science of Computer Programming (SCP)
 
-**Conference Program Committee Members**
+### Conference Program Committee Members
 
-ISSRE2024 Artifact Evaluation Track
+[35th IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)](https://issre.github.io/2024/calls_cfp-artifact_evaluation.html), Artifact Evaluation Track
 
-ICST2024 Workshop, ICST2025 Workshop
+[4th International Workshop on Artificial Intelligence in Software Testing (AIST 2024)](https://conf.researchr.org/home/icst-2024/aist-2024)
 
-SE4ADS2025/2026
+[5th International Workshop on Artificial Intelligence in Software Testing (AIST 2025)](https://conf.researchr.org/home/icst-2025/aist-2025)
+
+[1st International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2025)](https://conf.researchr.org/home/icse-2025/se4ads-2025)
+
+[2nd International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS 2026)](https://conf.researchr.org/home/fse-2026/se4ads-2026)
+
+
+
+
+<!-- ISSRE2024 Artifact Evaluation Track -->
+
+<!-- ICST2024 Workshop, ICST2025 Workshop -->
+
+<!-- SE4ADS2025/2026 -->
 
 
