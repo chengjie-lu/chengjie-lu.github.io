@@ -20,23 +20,26 @@ See full publication list [here].(https://scholar.google.com/citations?user=fwAw
     <strong>Vision Language Model-based Testing of Industrial Autonomous Mobile Robots.</strong><br>
     Jiahui Wu, <strong>Chengjie Lu</strong>, Aitor Arrieta, Shaukat Ali, and Thomas Peyrucain<br>
     <em>2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26), SEIP Track</em><br>
-    <a href="https://arxiv.org/abs/2508.02338" style="text-decoration: none;">[PDF]</a> 
+    <a href="https://arxiv.org/abs/2508.02338" style="text-decoration: none;">[Paper]</a> 
     <a href="https://github.com/Simula-COMPLEX/RVSG" style="text-decoration: none;">[Code]</a>
   </div>
 </div>
 
 
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
-  <img src="https://chengjie-lu.github.io/images/test_scenario_generation_new5_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+  <img src="https://chengjie-lu.github.io/images/robot_core.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
 
   <div>
-    <strong>Vision Language Model-based Testing of Industrial Autonomous Mobile Robots.</strong><br>
-    Jiahui Wu, <strong>Chengjie Lu</strong>, Aitor Arrieta, Shaukat Ali, and Thomas Peyrucain<br>
-    <em>2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26), SEIP Track</em><br>
-    <a href="https://arxiv.org/abs/2508.02338" style="text-decoration: none;">[PDF]</a> 
-    <a href="https://github.com/Simula-COMPLEX/RVSG" style="text-decoration: none;">[Code]</a>
+    <strong>Assessing the uncertainty and robustness of the laptop refurbishing software.</strong><br>
+    <strong>Chengjie Lu</strong>, Jiahui Wu, Shaukat Ali, and Mikkel Labori Olsen<br>
+    <em>2025 IEEE Conference on Software Testing, Verification and Validation (ICST '25), Industrial Track</em><br>
+    <a href="https://ieeexplore.ieee.org/document/10988977" style="text-decoration: none;">[Paper]</a> 
+    <a href="https://github.com/chengjie-lu/sticker-detection-uncertainty-quantification" style="text-decoration: none;">[Code]</a>
   </div>
 </div>
+
+
+
 
 
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
