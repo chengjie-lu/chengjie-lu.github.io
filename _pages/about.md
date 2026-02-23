@@ -36,7 +36,9 @@ redirect_from:
 <!-- ## *News<font color=Red></font>* <div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="36" /></div> -->
 <!-- ## *News* <img src="https://chengjie-lu.github.io/images/news.png" width="36" align="left" /> -->
 
-# News <img src="https://chengjie-lu.github.io/images/news.png" width="32" style="vertical-align: -5px;"/>
+# News 
+
+<img src="https://chengjie-lu.github.io/images/news.png" width="32" style="vertical-align: -5px;"/>
 
 **[Dec 2025]** Our paper entitiled "Vision Language Model-based Testing of Industrial Autonomous Mobile Robots" has been accepted by ICSE 2026 SEIP Track and will be presented at the conference.
 
