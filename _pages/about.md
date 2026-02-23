@@ -32,10 +32,14 @@ redirect_from:
 
 **[May 2023]** I won the **1st place** in the ACM Student Research Competition@[ICSE2023](https://conf.researchr.org/home/icse-2023)!*
 
-# Honors
+<!-- # Honors
 
-- 1st Place Winner in the ACM Student Research Competition@ICSE2023, 2023
-- Outstanding Graduates Awards of NUAA, 2022
-- Merit Student Award of NUAA, 2021
-- The First Prize Scholarship of NUAA, 2019, 2020, 2021
-- Student Award for Research and Innovation of NUAA, 2021
+1st Place Winner in the ACM Student Research Competition@ICSE2023, 2023
+
+Outstanding Graduates Awards of NUAA, 2022
+
+Merit Student Award of NUAA, 2021
+
+The First Prize Scholarship of NUAA, 2019, 2020, 2021
+
+Student Award for Research and Innovation of NUAA, 2021 -->
