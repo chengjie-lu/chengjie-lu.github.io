@@ -179,7 +179,7 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
     <strong>Chengjie Lu</strong>, Jiahui Wu, Shaukat Ali, Malaika Din Hashmi, et al.<br>
     <em>Submitted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM).</em><br>
     <!-- <a href="http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf" style="text-decoration: none;">[Paper]</a>  -->
-    <!-- <a href="https://github.com/simplexity-lab/LiveTCM" style="text-decoration: none;">[Code]</a> -->
+    <a href="https://github.com/Simula-COMPLEX/UAMTERS" style="text-decoration: none;">[Code]</a>
   </div>
 </div>
 
