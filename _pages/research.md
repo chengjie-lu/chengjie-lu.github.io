@@ -142,6 +142,61 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
   </div>
 </div>
 
+## Technical Reports
+
+<!-- Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead -->
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/challenges_opportunities_tosem_latest_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+  
+  <div>
+    <strong>Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead.</strong><br>
+    <strong>Chengjie Lu</strong>, Pablo Valle, Jiahui Wu, Erblin Isaku, Hassan Sartaj, Aitor Arrieta, and Shaukat Ali<br>
+    <em>Manuscript under major revision in ACM Transactions on Software Engineering and Methodology (TOSEM).</em><br>
+    <a href="https://arxiv.org/abs/2504.04630" style="text-decoration: none;">[Preprint]</a> 
+    <!-- <a href="https://github.com/simplexity-lab/LiveTCM" style="text-decoration: none;">[Code]</a> -->
+  </div>
+</div>
+
+<!-- Multi-Modal Reinforcement Learning-based Testing of Autonomous Driving Systems -->
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/deepqtest.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+  
+  <div>
+    <strong>Multi-Modal Reinforcement Learning-based Testing of Autonomous Driving Systems.</strong><br>
+    <strong>Chengjie Lu</strong>, Tao Yue, Man Zhang, and Shaukat Ali<br>
+    <em>Manuscript submitted for publication in Journal of Systems and Software (JSS).</em><br>
+    <a href="https://arxiv.org/abs/2310.05170" style="text-decoration: none;">[Preprint]</a> 
+    <a href="https://github.com/Simula-COMPLEX/DeepQTest" style="text-decoration: none;">[Code]</a>
+  </div>
+</div>
+
+<!-- UAMTERS: Uncertainty-Aware Mutation Analysis for DL-enabled Robotic Software -->
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/maple-k2_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+  
+  <div>
+    <strong>UAMTERS: Uncertainty-Aware Mutation Analysis for DL-enabled Robotic Software.</strong><br>
+    <strong>Chengjie Lu</strong>, Jiahui Wu, Shaukat Ali, Malaika Din Hashmi, et al.<br>
+    <em>Manuscript submitted for publication in Journal of Systems and Software (JSS).</em><br>
+    <!-- <a href="http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf" style="text-decoration: none;">[Paper]</a>  -->
+    <!-- <a href="https://github.com/simplexity-lab/LiveTCM" style="text-decoration: none;">[Code]</a> -->
+  </div>
+</div>
+
+
+<!-- Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots -->
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/spatialvla_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+  
+  <div>
+    <strong>Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots.</strong><br>
+    Pablo Valle, <strong>Chengjie Lu</strong>, Shaukat Ali, and Aitor Arrieta<br>
+    <em>Manuscript submitted for publication in IEEE Transactions on Software Engineering.</em><br>
+    <a href="https://arxiv.org/abs/2507.17049" style="text-decoration: none;">[Preprint]</a> 
+    <a href="https://github.com/pablovalle/VLA_UQ" style="text-decoration: none;">[Code]</a>
+  </div>
+</div>
+
 
 ## Academic Services
 

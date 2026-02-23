@@ -28,6 +28,8 @@ main:
 research_nav:
   - title: "Selected Publications"
     url: "/research/#selected-publications"
+  - title: "Technical Reports"
+    url: "/research/#technical-reports"
   - title: "Academic Services"
     url: "/research/#academic-services"
 
