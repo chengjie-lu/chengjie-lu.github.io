@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "路成杰 / Chengjie Lu"
+title                    : "Chengjie Lu (路成杰)"
 title_separator          : "-"
 name                     : &name "Chengjie Lu"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "路成杰 / Chengjie Lu"
+  name             : "Chengjie Lu (路成杰)"
   avatar           : "profile_new.png"
   bio              : "Ph.D Student<br>Simula Research Laboratory, Kristian Augusts gate 23, 0164 Oslo, Norway"
   location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fwAwgngAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "chengjielu@simula.no"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Chengjie__Lu"
+  # twitter          : "Chengjie__Lu"
   vine             :
   weibo            :
   xing             :
