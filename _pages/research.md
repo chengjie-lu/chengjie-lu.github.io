@@ -8,10 +8,39 @@ redirect_from:
   - /research.html
 ---
 
-## Selected Publications ([Full-List](https://scholar.google.com/citations?user=fwAwgngAAAAJ&hl=en))
+## Selected Publications
+
+See full publication list [here].(https://scholar.google.com/citations?user=fwAwgngAAAAJ&hl=en)
+
 
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
-  <img src="https://chengjie-lu.github.io/images/fig_1-tse-overview.png" width="120" style="margin-right: 16px; border-radius: 8px; object-fit: cover;"/>
+  <img src="https://chengjie-lu.github.io/images/overview_nnnn_4_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+
+  <div>
+    <strong>Vision Language Model-based Testing of Industrial Autonomous Mobile Robots.</strong><br>
+    Jiahui Wu, <strong>Chengjie Lu</strong>, Aitor Arrieta, Shaukat Ali, and Thomas Peyrucain<br>
+    <em>2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26), SEIP Track</em><br>
+    <a href="https://arxiv.org/abs/2508.02338" style="text-decoration: none;">[PDF]</a> 
+    <a href="https://github.com/Simula-COMPLEX/RVSG" style="text-decoration: none;">[Code]</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/test_scenario_generation_new5_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
+
+  <div>
+    <strong>Vision Language Model-based Testing of Industrial Autonomous Mobile Robots.</strong><br>
+    Jiahui Wu, <strong>Chengjie Lu</strong>, Aitor Arrieta, Shaukat Ali, and Thomas Peyrucain<br>
+    <em>2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26), SEIP Track</em><br>
+    <a href="https://arxiv.org/abs/2508.02338" style="text-decoration: none;">[PDF]</a> 
+    <a href="https://github.com/Simula-COMPLEX/RVSG" style="text-decoration: none;">[Code]</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/fig_1-tse-overview.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
 
   <div>
     <strong>Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.</strong><br>
@@ -32,11 +61,6 @@ redirect_from:
     <a href="http://chengjie-lu.github.io/files/ICSE2023_SRC.pdf" style="text-decoration: none;">[PDF]</a>
   </div>
 </div>
-
-Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.<br>
-**Chengjie Lu**, Yize Shi, Huihui Zhang, Man Zhang, Tiexin Wang, Tao Yue and Shaukat Ali<br>
-In: IEEE Transactions on Software Engineering (**TSE**), 2022.<br>
-[[PDF](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[Code](https://github.com/simplexity-lab/DeepCollision)]
 
 ## Conference
 
