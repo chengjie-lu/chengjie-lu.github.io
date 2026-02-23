@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+---
 
 You can view my CV below or Download it [here](/files/CV___Chengjie.pdf).
 
