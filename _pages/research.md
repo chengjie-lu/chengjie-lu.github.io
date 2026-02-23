@@ -151,7 +151,7 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
   <div>
     <strong>Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead.</strong><br>
     <strong>Chengjie Lu</strong>, Pablo Valle, Jiahui Wu, Erblin Isaku, Hassan Sartaj, Aitor Arrieta, and Shaukat Ali<br>
-    <em>Manuscript under major revision in ACM Transactions on Software Engineering and Methodology (TOSEM).</em><br>
+    <em>Under major revision in ACM Transactions on Software Engineering and Methodology (TOSEM).</em><br>
     <a href="https://arxiv.org/abs/2504.04630" style="text-decoration: none;">[Preprint]</a> 
     <!-- <a href="https://github.com/simplexity-lab/LiveTCM" style="text-decoration: none;">[Code]</a> -->
   </div>
@@ -177,7 +177,7 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
   <div>
     <strong>UAMTERS: Uncertainty-Aware Mutation Analysis for DL-enabled Robotic Software.</strong><br>
     <strong>Chengjie Lu</strong>, Jiahui Wu, Shaukat Ali, Malaika Din Hashmi, et al.<br>
-    <em>Manuscript submitted for publication in Journal of Systems and Software (JSS).</em><br>
+    <em>Manuscript submitted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM).</em><br>
     <!-- <a href="http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf" style="text-decoration: none;">[Paper]</a>  -->
     <!-- <a href="https://github.com/simplexity-lab/LiveTCM" style="text-decoration: none;">[Code]</a> -->
   </div>
@@ -191,7 +191,7 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
   <div>
     <strong>Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots.</strong><br>
     Pablo Valle, <strong>Chengjie Lu</strong>, Shaukat Ali, and Aitor Arrieta<br>
-    <em>Manuscript submitted for publication in IEEE Transactions on Software Engineering.</em><br>
+    <em>Manuscript submitted for publication in IEEE Transactions on Software Engineering (TSE).</em><br>
     <a href="https://arxiv.org/abs/2507.17049" style="text-decoration: none;">[Preprint]</a> 
     <a href="https://github.com/pablovalle/VLA_UQ" style="text-decoration: none;">[Code]</a>
   </div>
