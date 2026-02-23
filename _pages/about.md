@@ -14,9 +14,10 @@ redirect_from:
  Beyond academia, I have applied these methods in industrial and societal contexts, gaining experience in leading technical projects, collaborating with international insititues, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/). 
 
 
-## *News<font color=Red>**</font>* 
+<!-- ## *News<font color=Red></font>* <div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="36" /></div> -->
+<!-- ## *News* <img src="https://chengjie-lu.github.io/images/news.png" width="36" align="left" /> -->
 
-<div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="36" /></div>
+## <img src="https://chengjie-lu.github.io/images/news.png" width="30" style="vertical-align: -6px;" /> *News* 
 
 **[Dec 2025]** Our paper entitiled "[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots]" has been accepted by ICSE 2026 SEIP Track and will be presented at the conference.
 
@@ -26,7 +27,7 @@ redirect_from:
 
 **[Aug 2024]** I am selected as a 2024 recipient of the Chinese Government Award for Outstanding Self-financed Students Abroad, Group A(国家优秀自费留学生奖学金).
 
-**[May 2024]** I am awarded Third Place Graduate winner of the ACM Student Research Competition Grand Finals. Details: [ACM SRC Grand Finalists 2024](https://src.acm.org/grand-finalists/2024)
+**[May 2024]** I am awarded Third Place Graduate winner of the ACM Student Research Competition Grand Finals. Details: [ACM SRC Grand Finalists 2024](https://src.acm.org/grand-finalists/2024).
 
 
 **[May 2023]** I won the **1st place** in the ACM Student Research Competition@[ICSE2023](https://conf.researchr.org/home/icse-2023)!*
