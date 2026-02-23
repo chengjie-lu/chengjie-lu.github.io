@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: single        # <-- Change this from 'archive' to 'single'
 permalink: /research/
 title: "Research"
 author_profile: false
-toc: true             # Turns on the automatic table of contents
-toc_sticky: true      # Makes the menu follow the user as they scroll down
-toc_label: "Navigator" # Customizes the title of the menu
+toc: true             
+toc_sticky: true      
+toc_label: "Navigator" 
 redirect_from: 
   - /research
   - /research.html
