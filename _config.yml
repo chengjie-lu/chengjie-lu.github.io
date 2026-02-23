@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chengjie Lu (路成杰)"
+title                    : "Chengjie Lu's Personal Website"
 title_separator          : "-"
 name                     : &name "Chengjie Lu"
 description              : &description "personal description"
