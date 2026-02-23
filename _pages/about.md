@@ -9,9 +9,11 @@ redirect_from:
 
 # About Me
 
-Currently I am Ph.D. fellow at Engineering Complex Software Systems Department at [Simula Research Laboratory](https://www.simula.no/people/chengjielu), Norway, under the supervision of [Dr. Tao Yue](https://www.simula.no/people/tao?f%5Bauthor%5D=2737) and [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737). I am also a Ph.D. student at [University of Oslo](https://www.uio.no), Norway. My research interests includes software engineering, software testing, autonomous driving system, and cyber-physical system. 
+ I am currently pursuing a PhD at [Simula Research Laboratory](https://www.simula.no/) and [University of Oslo](https://www.uio.no), Norway, under the supervision of [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) and [Dr. Are Magnus Bruaset](https://www.simula.no/people/arem). My research focuses on ensuring the safety and trustworthiness of autonomous systems, particularly in autonomous driving and robotics, through automated test generation, uncertainty quantification, and foundation models to build robust and reliable systems.
 
-I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics.
+ Beyond academia, I have applied these methods in industrial and societal contexts, gaining experience in leading technical projects, collaborating with international insititues, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/). 
+
+<!-- I received my B.Sc. degree in [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in June 2019 from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/). In the same year, I was admitted to study for a M.Sc. degree in Nanjing University of Aeronautics and Astronautics. -->
 
 <!-- , under the supervision of Prof. Tao Yue. -->
 
