@@ -24,7 +24,7 @@ redirect_from:
 
 **[Dec 2024]** Our paper entitled "[Assessing the Uncertainty and Robustness of the Laptop Refurbishing Software](https://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)" has been accepted by ICST 2025 Industrial Track and will be presented at the conference.
 
-**[Aug 2024]** I am selected as a 2024 recipient of the Chinese Government Award for Outstanding Self-financed Students Abroad, Group A（国家优秀自费留学生奖学金）.
+**[Aug 2024]** I am selected as a 2024 recipient of the Chinese Government Award for Outstanding Self-financed Students Abroad, Group A(国家优秀自费留学生奖学金).
 
 **[May 2024]** I am awarded Third Place Graduate winner of the ACM Student Research Competition Grand Finals. Details: [ACM SRC Grand Finalists 2024](https://src.acm.org/grand-finalists/2024)
 
