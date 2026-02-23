@@ -23,3 +23,10 @@ main:
     
 #   - title: "Guide"
 #     url: /markdown/
+
+
+research_nav:
+  - title: "Selected Publications"
+    url: "#selected-publications"
+  - title: "Academic Services"
+    url: "#academic-services"

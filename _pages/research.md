@@ -1,11 +1,10 @@
 ---
-layout: single        # <-- Change this from 'archive' to 'single'
+layout: archive
 permalink: /research/
 title: "Research"
 author_profile: false
-toc: true             
-toc_sticky: true      
-toc_label: "Navigator" 
+sidebar:
+  nav: "research_nav"
 redirect_from: 
   - /research
   - /research.html
@@ -146,6 +145,24 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
 
 ## Academic Services
 
-Journal Reviewers
+**Journal Reviewers**
+
+IEEE Transactions on Software Engineering
+
+ACM Transactions on Software Engineering and Methodology
+
+IEEE Transactions on Intelligent Transportation Systems
+
+IEEE Transactions on Industrial Informatics
+
+Science of Computer Programming
+
+**Conference Program Committee Members**
+
+ISSRE2024 Artifact Evaluation Track
+
+ICST2024 Workshop, ICST2025 Workshop
+
+SE4ADS2025/2026
 
 
