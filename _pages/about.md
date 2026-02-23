@@ -1,11 +1,25 @@
 ---
+layout: single
+permalink: /
+title: ""
+author_profile: true
+sidebar:
+  nav: "about_nav"
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<!-- ---
 permalink: /
 title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
+
+
 
 # About Me
 
