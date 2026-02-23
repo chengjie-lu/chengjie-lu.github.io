@@ -8,6 +8,12 @@ redirect_from:
   - /research.html
 ---
 
+**Navigator:**
+* [Selected Publications](#selected-publications)
+* [Academic Services](#academic-services)
+
+---
+
 ## Selected Publications
 
 See full publication list [here](https://scholar.google.com/citations?user=fwAwgngAAAAJ&hl=en).
@@ -85,12 +91,9 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
     <strong>Chengjie Lu</strong><br>
     <em>2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2023), <strong>1st Place Winner@ICSE2023 SRC</strong></em><br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10172814" style="text-decoration: none;">[Paper]</a> 
-    <!-- <a href="https://github.com/Simula-COMPLEX/EvoCLINICAL" style="text-decoration: none;">[Code]</a> -->
-  </div>
+    </div>
 </div>
 
-
-<!-- DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing -->
 
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
   <img src="https://chengjie-lu.github.io/images/Overview_New3_00.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
@@ -105,8 +108,6 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
 </div>
 
 
-<!-- Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions -->
-
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
   <img src="https://chengjie-lu.github.io/images/fig_1-tse-overview.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
 
@@ -119,19 +120,6 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
   </div>
 </div>
 
-<!-- Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation -->
-<!-- <div style="display: flex; align-items: center; margin-bottom: 24px;">
-  <img src="https://chengjie-lu.github.io/images/replace_me_1.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
-  
-  <div>
-    <strong>Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation.</strong><br>
-    Qiwei Chen, Tiexin Wang, <strong>Chengjie Lu</strong>, Tao Yue, Shaukat Ali<br>
-    <em>In: Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (<strong>MODELS 2022</strong>).</em><br>
-    <a href="http://chengjie-lu.github.io/files/MODELS_2022_Workshop.pdf" style="text-decoration: none;">[PDF]</a>
-  </div>
-</div> -->
-
-<!-- Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems -->
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
   <img src="https://chengjie-lu.github.io/images/Fig1_SPECTRE_Overview.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
   
@@ -145,7 +133,6 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
   </div>
 </div>
 
-<!-- Restricted Natural Language and Model-based Adaptive Test Generation for Autonomous Driving -->
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
   <img src="https://chengjie-lu.github.io/images/livetcm_overview.png" width="120" style="margin-right: 16px; border-radius: 0px; object-fit: cover;"/>
   
@@ -159,17 +146,4 @@ See full publication list [here](https://scholar.google.com/citations?user=fwAwg
 </div>
 
 
-<!-- Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation.<br>
-Qiwei Chen, Tiexin Wang, **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
-In: Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (**MODELS 2022**).<br>
-[[PDF](http://chengjie-lu.github.io/files/MODELS_2022_Workshop.pdf)]
-
-Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems.<br>
-**Chengjie Lu**, Huihui Zhang and Tao Yue<br>
-In: 13th Symposium on Search-Based Software Engineering (**SSBSE 2021**).<br>
-[[PDF](http://chengjie-lu.github.io/files/Lu2021_Chapter_Search-BasedSelectionAndPriori.pdf)][[Slides](http://chengjie-lu.github.io/files/SSBSE-SPECTRE-Presentation-Slides.pdf)][[Code](https://github.com/simplexity-lab/SPECTRE)]
-
-Restricted Natural Language and Model-based Adaptive Test Generation for Autonomous Driving.<br>
-Yize Shi, **Chengjie Lu**, Man Zhang, Huihui Zhang, Tao Yue and Shaukat Ali<br>
-In: ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (**MODELS 2021**).<br>
-[[PDF](http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf)][[GitHub](https://github.com/simplexity-lab/LiveTCM)] -->
+## Academic Services
