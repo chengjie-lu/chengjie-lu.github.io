@@ -30,7 +30,9 @@ redirect_from:
   <a href="https://chengjie-lu.github.io/research/"><strong>Learn more about my research</strong></a>
 </p>
 
- Beyond academia, I have applied these methods in industrial and societal contexts, gaining experience in leading technical projects, collaborating with international insititues, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/). 
+Beyond academia, I have translated my research on AI for embodied systems (e.g., autonomous driving and robotics) and intelligent healthcare systems into industrial and societal applications. This includes leading technical projects and collaborating with international institutes, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/).
+
+ <!-- Beyond academia, I have applied these methods in industrial and societal contexts, gaining experience in leading technical projects, collaborating with international insititues, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/).  -->
 
 
 <!-- ## *News<font color=Red></font>* <div align=left><img src="https://chengjie-lu.github.io/images/news.png" width="36" /></div> -->
