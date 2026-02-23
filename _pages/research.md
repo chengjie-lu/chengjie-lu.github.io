@@ -1,0 +1,71 @@
+---
+layout: archive
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research
+  - /research.html
+---
+
+## Selected Publications ([Full-List](https://scholar.google.com/citations?user=fwAwgngAAAAJ&hl=en))
+
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/fig_1-tse-overview.png" width="120" style="margin-right: 16px; border-radius: 8px; object-fit: cover;"/>
+
+  <div>
+    <strong>Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.</strong><br>
+    <strong>Chengjie Lu</strong>, Yize Shi, Huihui Zhang, Man Zhang, Tiexin Wang, Tao Yue, Shaukat Ali<br>
+    <em>IEEE Transactions on Software Engineering (TSE), 2022</em><br>
+    <a href="http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf" style="text-decoration: none;">[PDF]</a> 
+    <a href="https://github.com/simplexity-lab/DeepCollision" style="text-decoration: none;">[Code]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <img src="https://chengjie-lu.github.io/images/fig_1-tse-overview.png" width="120" style="margin-right: 16px; border-radius: 8px; object-fit: cover;"/>
+  
+  <div>
+    <strong>Test Scenario Generation for Autonomous Driving Systems with Reinforcement Learning</strong><br>
+    <strong>Chengjie Lu</strong><br>
+    <em>2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2023)</em><br>
+    <a href="http://chengjie-lu.github.io/files/ICSE2023_SRC.pdf" style="text-decoration: none;">[PDF]</a>
+  </div>
+</div>
+
+Learning Configurations of Operating Environment of Autonomous Vehicles to Maximize their Collisions.<br>
+**Chengjie Lu**, Yize Shi, Huihui Zhang, Man Zhang, Tiexin Wang, Tao Yue and Shaukat Ali<br>
+In: IEEE Transactions on Software Engineering (**TSE**), 2022.<br>
+[[PDF](http://chengjie-lu.github.io/files/TSE___DeepCollision.pdf)][[Code](https://github.com/simplexity-lab/DeepCollision)]
+
+## Conference
+
+Test Scenario Generation for Autonomous Driving Systems with Reinforcement Learning.<br>
+**Chengjie Lu**<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**).<br>
+[[PDF](http://chengjie-lu.github.io/files/ICSE2023_SRC.pdf)]
+
+Evolutionary Computation and Reinforcement Learning for Cyber-physical System Design.<br>
+**Chengjie Lu**<br>
+In: 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion 2023**).<br>
+[[PDF](http://chengjie-lu.github.io/files/ICSE2023_DS.pdf)][[Poster](http://chengjie-lu.github.io/files/ICSE-DS-Poster_Print.pdf)]
+
+DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing.<br>
+**Chengjie Lu**, Tao Yue and Shaukat Ali<br>
+In: 20th International Conference on Mining Software Repositories (**MSR 2023**).<br>
+[[PDF](http://chengjie-lu.github.io/files/MSR2023_Scenario_Dataset___Chengjie.pdf)][[Slides](http://chengjie-lu.github.io/files/MSR-Datset.pdf)][[DataSet](https://github.com/Simula-COMPLEX/DeepScenario)]
+
+Enhancing the Realism of Autonomous Driving Simulation with Real-time Co-simulation.<br>
+Qiwei Chen, Tiexin Wang, **Chengjie Lu**, Tao Yue and Shaukat Ali<br>
+In: Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (**MODELS 2022**).<br>
+[[PDF](http://chengjie-lu.github.io/files/MODELS_2022_Workshop.pdf)]
+
+Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems.<br>
+**Chengjie Lu**, Huihui Zhang and Tao Yue<br>
+In: 13th Symposium on Search-Based Software Engineering (**SSBSE 2021**).<br>
+[[PDF](http://chengjie-lu.github.io/files/Lu2021_Chapter_Search-BasedSelectionAndPriori.pdf)][[Slides](http://chengjie-lu.github.io/files/SSBSE-SPECTRE-Presentation-Slides.pdf)][[Code](https://github.com/simplexity-lab/SPECTRE)]
+
+Restricted Natural Language and Model-based Adaptive Test Generation for Autonomous Driving.<br>
+Yize Shi, **Chengjie Lu**, Man Zhang, Huihui Zhang, Tao Yue and Shaukat Ali<br>
+In: ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (**MODELS 2021**).<br>
+[[PDF](http://chengjie-lu.github.io/files/LiveTCM_MODELS_2021.pdf)][[GitHub](https://github.com/simplexity-lab/LiveTCM)]
