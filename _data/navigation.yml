@@ -27,6 +27,6 @@ main:
 
 research_nav:
   - title: "Selected Publications"
-    url: "#selected-publications"
+    url: "/research/#selected-publications"
   - title: "Academic Services"
-    url: "#academic-services"
+    url: "/research/#academic-services"
