@@ -17,6 +17,9 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
+
+  - title: "Academic Services"
+    url: "/research/#academic-services"
     
   - title: "CV"
     url: /cv/
