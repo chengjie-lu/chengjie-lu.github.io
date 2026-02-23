@@ -11,6 +11,11 @@ redirect_from:
 
  I am currently pursuing a PhD at [Simula Research Laboratory](https://www.simula.no/) and [University of Oslo](https://www.uio.no), Norway, under the supervision of [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) and [Dr. Are Magnus Bruaset](https://www.simula.no/people/arem). My research focuses on ensuring the safety and trustworthiness of autonomous systems, particularly in autonomous driving and robotics, through automated test generation, uncertainty quantification, and foundation models to build robust and reliable systems.
 
+<p style="margin-top: 8px;">
+  <span style="font-size: 18px;">&#8594;</span> 
+  <a href="YOUR_LINK"><strong>Learn more about my research</strong></a>
+</p>
+
  Beyond academia, I have applied these methods in industrial and societal contexts, gaining experience in leading technical projects, collaborating with international insititues, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/). 
 
 
@@ -30,9 +35,9 @@ redirect_from:
 **[May 2024]** I am awarded Third Place Graduate winner of the ACM Student Research Competition Grand Finals. Details: [ACM SRC Grand Finalists 2024](https://src.acm.org/grand-finalists/2024).
 
 
-**[May 2023]** I won the **1st place** in the ACM Student Research Competition@[ICSE2023](https://conf.researchr.org/home/icse-2023)!*
+**[May 2023]** I won the **1st place** in the ACM Student Research Competition@[ICSE2023](https://conf.researchr.org/home/icse-2023)!
 
-# Honors
+## Honors
 
 **[2025]** the Chinese Government Award for Outstanding Self-financed Students Abroad, Group A
 
