@@ -23,7 +23,7 @@ redirect_from:
 
 # About Me
 
- I am currently pursuing a PhD at [Simula Research Laboratory](https://www.simula.no/) and [University of Oslo](https://www.uio.no), Norway, under the supervision of [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) and [Dr. Are Magnus Bruaset](https://www.simula.no/people/arem). My research focuses on ensuring the safety and trustworthiness of autonomous systems, particularly in autonomous driving and robotics, through automated test generation, uncertainty quantification, and foundation models to build robust and reliable systems.
+ I am currently pursuing a PhD at [Simula Research Laboratory](https://www.simula.no/) and [University of Oslo](https://www.uio.no), Norway, under the supervision of [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) and [Dr. Are Magnus Bruaset](https://www.simula.no/people/arem). My research focuses on ensuring the safety and trustworthiness of autonomous systems, particularly in autonomous driving and robotics, through automated test generation, digital twin, uncertainty quantification, and foundation models to build robust and reliable systems.
 
 <p style="margin-top: 8px;">
   <span style="font-size: 18px;">&#8594;</span> 
