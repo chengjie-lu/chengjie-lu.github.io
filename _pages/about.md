@@ -23,14 +23,20 @@ redirect_from:
 
 # About Me
 
- I am currently pursuing a PhD at [Simula Research Laboratory](https://www.simula.no/) and [University of Oslo](https://www.uio.no), Norway, under the supervision of [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) and [Dr. Are Magnus Bruaset](https://www.simula.no/people/arem). My research focuses on ensuring the safety and trustworthiness of autonomous systems, particularly in autonomous driving and robotics, through automated test generation, digital twin, uncertainty quantification, and foundation models to build robust and reliable systems.
+ I am currently pursuing a PhD at [Simula Research Laboratory](https://www.simula.no/) and [University of Oslo](https://www.uio.no), Norway, under the supervision of [Dr. Shaukat Ali](https://www.simula.no/people/shaukat?f%5Bauthor%5D=2737) and [Dr. Are Magnus Bruaset](https://www.simula.no/people/arem). My research focuses on ensuring the **safety and trustworthiness** of industrial-scale AI-empowered software systems, particularly **embodied AI** (e.g., autonomous driving, robotics), and their applications in various domains, including **healthcare** and **industrial disassembly robotics**, through AI-driven validation methods, **digital twin** technologies, uncertainty quantification methods, and the use of **foundation models** (e.g., GPT and VLA) to build trustworthy systems. 
+
+ 
+ <!-- My research focuses on ensuring the safety and trustworthiness of autonomous systems, particularly in autonomous driving and robotics, through automated test generation, digital twin, uncertainty quantification, and foundation models to build robust and reliable systems. -->
 
 <p style="margin-top: 8px;">
   <span style="font-size: 18px;">&#8594;</span> 
   <a href="https://chengjie-lu.github.io/research/"><strong>Learn more about my research</strong></a>
 </p>
 
-Beyond academia, I have translated my research on AI for embodied systems (e.g., autonomous driving and robotics) and intelligent healthcare systems into industrial and societal applications. This includes leading technical projects and collaborating with international institutes, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/).
+
+My professional trajectory is defined by the transition of academic innovation into tangible industrial and societal applications. Beyond academic research, I have actively contributed to and led key technical tasks in collaborative projects, establishing close partnerships with national and international partners, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/).
+
+<!-- Beyond academia, I have translated my research on AI for embodied systems (e.g., autonomous driving and robotics) and intelligent healthcare systems into industrial and societal applications. This includes leading technical projects and collaborating with international institutes, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/). -->
 
  <!-- Beyond academia, I have applied these methods in industrial and societal contexts, gaining experience in leading technical projects, collaborating with international insititues, including [PAL Robotics](https://pal-robotics.com/), [Danish Technological Institute](https://www.dti.dk/), and [Cancer Registry of Norway](https://www.fhi.no/en/cancer/).  -->
 
